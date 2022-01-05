@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecrisperson1)](https://github.com/anuraghazra/github-readme-stats)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=thecrisperson1&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrisperson1&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=ffaaff&text_color=77ddff)
